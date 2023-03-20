@@ -45,6 +45,8 @@ public class User {
         return userClone;
     }
 
+    //some modifications must be done in this class
+
     private void sensetiveObject(SensetiveObject clone) {
     }
 }
